@@ -8,7 +8,6 @@ An instruction manual on how to create your own pip installable package and on h
 
 ###Step 1
 Make sure you have created the following folders correctly 
-
 -src folder
 -LICENSE file
 -README.md file 
