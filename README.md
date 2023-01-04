@@ -1,4 +1,5 @@
-#An instruction manual on how to create your own pip installable package and on how to upload into PyPI
+#Documentation
+An instruction manual on how to create your own pip installable package and on how to upload into PyPI
 
 ##Authors
 - Maathavan Manimaran
