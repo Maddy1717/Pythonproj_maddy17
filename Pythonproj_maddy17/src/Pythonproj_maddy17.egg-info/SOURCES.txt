@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+src/Pythonproj_maddy17/__init__.py
+src/Pythonproj_maddy17/hello_world.py
+src/Pythonproj_maddy17.egg-info/PKG-INFO
+src/Pythonproj_maddy17.egg-info/SOURCES.txt
+src/Pythonproj_maddy17.egg-info/dependency_links.txt
+src/Pythonproj_maddy17.egg-info/requires.txt
+src/Pythonproj_maddy17.egg-info/top_level.txt

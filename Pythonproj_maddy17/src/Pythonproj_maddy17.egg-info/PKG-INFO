@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: Pythonproj-maddy17
+Version: 0.1.0
+Summary: A example Python package
+Home-page: https://github.com/Maddy1717/Pythonproj_maddy17.git
+Author: Maathavan Manimaran
+Author-email: maathavan17@gmail.com
+License: MIT
+Description: # package_template
+        
+        A Template to build a Hello World PIP package
+        
+        ## Authors
+        
+        - Maathavan Manimaran
+        
+        ## Installation
+        
+        Install Pythonproj_maddy17 with pip
+        
+        ```bash
+        
+          pip install Pythonproj_maddy17
+        
+        ```
+        
+        ## Requirements
+        
+        - nothing its just a python script
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
