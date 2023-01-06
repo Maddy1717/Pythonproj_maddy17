@@ -81,7 +81,29 @@ If you have any questions or issues on how to organise the source code files loc
 ####  LICENSE
 This file contains the information on which License you are using to prevent the package from being flagged for infringement. 
 
-The list of URL below shows more information of the license and gives the neccessary documentation to substantiate each type of license.  
+The list of URLs below shows more information of the license and gives the neccessary documentation to substantiate each type of license.  
+
+1)  https://choosealicense.com/
+2)  https://opensource.org/licenses/BSD-2-Clause
+3)  https://en.wikipedia.org/wiki/Software_license
+
+You can also take a look at the license file in this repository file to get a better understanding of how a license looks like. 
+
+####  Pythonproj_maddy17.toml file 
+This file is a configuration file that shows the meta data of the package that you have created. It also directs "frontend" buidtools to the correct "backend" tools to use to create the distribution packages. 
+
+Refer to 
+You can refer to the Pythonprof_maddy17.toml file to observe the specific code that should be put in the file. 
+
+In addition,the name of this file should also carry the same name as the package name. 
+
+There are also different representations for the configurations files. For example, the meta data doesnt not neccessarily have to be in one configuration file. it can be split into two different files like how it has been done in this package. 
+
+- Pythonproj_maddy17
+  - Pythonproj_maddy17.toml
+  - setup.cfg
+
+If you use such a setup, the .toml file would only contain build information as shown in the example code provided in the package. Build information such as the modules required to build the 
 
 
 
